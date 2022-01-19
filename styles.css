@@ -21,6 +21,25 @@
    
     
 }
+a{
+    text-decoration: none;
+}
+i{
+    color: black;
+}
+span{
+    color: black;
+   margin: .5rem;
+    
+}
+.header_child{
+border-radius: 1.5rem;
+padding: .5rem 3rem ;
+font-size: 1rem;
+background-color: #113CFC;
+border: solid skyblue;
+color: white;
+}
 
 .second_container{
     display: flex;
